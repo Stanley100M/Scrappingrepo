@@ -1,4 +1,4 @@
 # Scrappingrepo
-extracting stock data from the web
+Extracting stock data from the web
 
-analyzing stock data
+Analyzing stock data
